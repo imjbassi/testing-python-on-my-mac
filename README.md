@@ -1,5 +1,4 @@
 <sup>I'm probably never going to update this again</sup>
-# Move-Mouse-in-Circle
 A testing script I made to see if Python can move my mouse on mac for future scripts
 
 <img src="https://raw.githubusercontent.com/imjbassi/Move-Mouse-in-Circle/main/CarbonsCode.png" width="600">
